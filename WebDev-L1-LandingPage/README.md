@@ -1,19 +1,25 @@
-# Car Rental Landing Page
+# OIBSIP - Web Development Internship
 
-## Description
-A modern and responsive Car Rental Landing Page built using HTML and CSS. The website showcases different car categories with an attractive user interface.
+## Task 1: Landing Page
 
-## Features
-- Responsive Navigation Bar
-- Hero Section
-- About Section
-- Car Categories
-- Contact/Footer Section
-- Modern Responsive Design
+A responsive landing page created using HTML and CSS.
 
 ## Technologies Used
+
 - HTML5
 - CSS3
+- Responsive Design
+
+## Features
+
+- Modern UI Design
+- Mobile Responsive
+- Clean Layout
+
+## Demo
+
+(Add your GitHub Pages link here)
 
 ## Author
+
 Mariam Abdikadir
